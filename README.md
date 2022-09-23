@@ -1,3 +1,5 @@
-# Portifolio-Luanferreirab
+# Portf-lio-do-zero
+Nesse vídeo eu ensino a criar um site portfólio do zero, usando HTML, CSS e JavaScript (Jquery).
 
-Link do Layout: https://www.figma.com/file/Smm8xXzLHtIgGW5lSPzy21/my-portfolio-(Community)?node-id=0%3A1
+
+![](image/Capa.png)
